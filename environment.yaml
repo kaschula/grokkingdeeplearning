@@ -1,0 +1,8 @@
+name: grokking_deeplearning
+channel:
+  - conda-forge
+dependencies:
+  - python=3.10.9
+  - pip
+  - pip:
+      - notebook==7.0.4
